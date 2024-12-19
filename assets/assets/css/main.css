@@ -16530,7 +16530,7 @@ body .ui-tooltip {
 .text-slider-2__slider .carouselTicker__list li .title {
   font-size: 25px;
   line-height: 30px;
-  font-weight: var(--rr-fw-sbold);
+  font-weight: bold;
   color: #ffffff;
   text-transform: capitalize;
   cursor: pointer;
