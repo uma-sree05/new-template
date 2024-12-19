@@ -16532,7 +16532,7 @@ body .ui-tooltip {
   line-height: 40px;
   font-weight: var(--rr-fw-sbold);
   color: #ffffff;
-  /* text-transform: capitalize; */
+  text-transform: capitalize;
   cursor: pointer;
 }
 @media (max-width: 575px) {
