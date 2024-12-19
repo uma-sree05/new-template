@@ -16529,8 +16529,8 @@ body .ui-tooltip {
 }
 .text-slider-2__slider .carouselTicker__list li .title {
   font-size: 25px;
-  line-height: 30x;
-  font-weight: bold;
+  line-height: 30px;
+  font-weight: 600;
   color: #ffffff;
   text-transform: capitalize;
   cursor: pointer;
