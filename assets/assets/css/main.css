@@ -16528,8 +16528,8 @@ body .ui-tooltip {
   padding-right: 20px;
 }
 .text-slider-2__slider .carouselTicker__list li .title {
-  font-size: 25px;
-  line-height: 30px;
+  font-size: 26px;
+  line-height: 31px;
   font-weight: 600;
   color: #ffffff;
   text-transform: capitalize;
@@ -16541,7 +16541,7 @@ body .ui-tooltip {
   }
 }
 .text-slider-2__slider .carouselTicker__list li img {
-  margin-top: 10px;
+  margin-top: 0px;
   -webkit-animation: spin 4S infinite;
           animation: spin 4S infinite;
 }
