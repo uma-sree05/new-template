@@ -16496,7 +16496,7 @@ body .ui-tooltip {
 
 .text-slider-2__section-space {
   padding: 15px 0;
-  background-color: var(--rr-theme-primary);
+  background-color: #ff5722;
 }
 .text-slider-2__slider .carouselTicker {
   margin: 0;
