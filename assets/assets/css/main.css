@@ -16495,8 +16495,8 @@ body .ui-tooltip {
 }
 
 .text-slider-2__section-space {
-  padding: 30px 0;
-  /* background-color: var(--rr-theme-primary); */
+  padding: 15px 0;
+  background-color: var(--rr-theme-primary);
 }
 .text-slider-2__slider .carouselTicker {
   margin: 0;
@@ -16531,8 +16531,8 @@ body .ui-tooltip {
   font-size: 30px;
   line-height: 40px;
   font-weight: var(--rr-fw-sbold);
-  color: #ff5722;
-  text-transform: uppercase;
+  color: #ffffff;
+  /* text-transform: capitalize; */
   cursor: pointer;
 }
 @media (max-width: 575px) {
@@ -18370,6 +18370,11 @@ body .ui-tooltip {
   padding-left: 20px;
   color: var(--rr-text-body);
   background-color: #F8F8F8;
+}
+.time-slot.selected {
+  background: #1e3c72;
+  color: white;
+  border-color: #1e3c72;
 }
 .submit-btn {
   /* width: 100%; */
